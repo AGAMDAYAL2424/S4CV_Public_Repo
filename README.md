@@ -158,5 +158,5 @@ sequenceDiagram
 ---
 
 <div align="center">
-Developed with ❤️ by the S4CV Team
+Developed with ❤️ by ZOMAKARB 
 </div>
