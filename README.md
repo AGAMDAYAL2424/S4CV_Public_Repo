@@ -158,5 +158,5 @@ sequenceDiagram
 ---
 
 <div align="center">
-Developed with ❤️ by ZOMAKARB 
+Developed with ❤️ by ZOMAKARB AI
 </div>
